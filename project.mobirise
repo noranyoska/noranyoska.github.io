@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.6",
-    "uniqCompNum": 21,
-    "versionPublish": "3.10.6",
+    "uniqCompNum": 23,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -41,6 +41,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "header1-e",
           "_params": {
             "parallax": true,
@@ -63,12 +68,7 @@
           },
           "title": "Szabó Andi",
           "text": "aSpánielTréner",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content1-5\" data-toolbar=\"-mbrBtnMove\">oktatás</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-h\" data-toolbar=\"-mbrBtnMove\">rólam</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content1-5\" data-toolbar=\"-mbrBtnMove\">oktatás</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-h\" data-toolbar=\"-mbrBtnMove\">rólam</a>"
         },
         {
           "_styles": {
@@ -160,7 +160,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">aSpánielTréner</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">aSpánielTréner</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SZOLGÁLTATÁSOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-6\">Spániel oktatás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-7\">Kutyaséta</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-c\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#form1-8\">Írj nekem!</a></li>"
         },
         {
@@ -195,31 +195,13 @@
           "_name": "header3",
           "_anchor": "header3-4",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Spánieled az őrületbe kerget? Ugat, húz, szarik rád?",
+          "title": "Életed pillanatok alatt rémálommá változott, <span style=\"font-weight: normal;\">kutyádat pedig egyszerre tehernek érzed?</span>",
           "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-5",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>válaszd Andit és ő megoldja a problémáid!</p>"
         },
         {
           "_inherit": "gallery1",
@@ -336,12 +318,12 @@
           "_name": "header3",
           "_anchor": "header3-h",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Szabó Andi vagyok&nbsp;",
+          "title": "Szabó Andi vagyok<br><span style=\"font-weight: normal;\">a SpánielTréner&nbsp;</span><br>",
           "meta": "..."
         },
         {
@@ -352,29 +334,40 @@
           "_anchor": "content6-j",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>Több mint tíz éve van kutyám és mindig <b>spánielem</b> volt. Nagyon megszerettem ezt a fajtát. </p><p><i><b><br></b></i></p><blockquote><i><b>Nehéz&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">természetét, konokságát ellensúlyozó kedvességének, igéző tekintetének lehetetlen ellenállni...&nbsp;</span></b></i><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Nekem nem is sikerült.</i></span></blockquote><p><br></p><p>Jelenleg két kutyám van, spániel keverékek. Mindkettő a <b>spániel fajtamentés</b> védence volt mielőtt&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">egymásra találtunk volna.</span></p><p><br></p><p><b><br></b></p><h4>Mantrailing, engedelmességi képzés, nosework, trükkök elsajátítása, falkaséták és kutyás táborok jellemezték ezt az időszakot.</h4><p><br></p>",
+          "text2": "<p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Két éve kezdtem aktívan kutyakiképzéssel foglalkozni, első mentett kutyámmal (név?)&nbsp;</span></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Egy évvel később, pedig második kutyámmal </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">(név?)</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">, elmerülhettem a viselkedés problémák témakörében.&nbsp;</span></p><p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-weight: normal;\">Hogy nehézségeinket kiküszöböljük és életünk visszatérhessen a korábbi nyugodt mederbe, részt&nbsp;</span></span><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\">vettem egy </span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>tréner képzésen</b></span><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\"> (név?), ami mintegy feltette az i-re a pontot.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\"><br></span></p><h4>Kutyáim képzése során rengeteg személyes tapasztalatra tettem szert, sok problémával&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">szembesültem és találtam rájuk megoldást.&nbsp;</span></h4><p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Úgy döntöttem, saját tapasztalataimat nem tartom meg&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">magamnak, hanem a családi kutyakiképzés keretein belül megosztom másokkal (veletek?) is.</span></span></p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".lead H4": {
+              "color": "#8c8c8c"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-k",
+          "_anchor": "msg-box8-m",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463089261392-ef38246bb984-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1493.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -388,8 +381,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "szolgáltatások",
-          "text": "<p>...</p>",
+          "title": "Szolgáltatások",
+          "text": "<h4>Hogy a kutyád soha ne legyen teher!</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -443,9 +436,9 @@
               "newWindow": false
             }
           },
-          "title1": "Egyéni oktatás",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "Egyéni tréning",
+          "subtitle1": "10x1 óra",
+          "caption1": "Családi kutyaoktatás magánóra keretében Budapesten és környékén, előre egyeztetett időpontban.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -460,8 +453,8 @@
             }
           },
           "title2": "Csoportos foglalkozások",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "...",
+          "caption2": "coming soon...",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -477,8 +470,8 @@
             }
           },
           "title3": "Közös kutyaséták",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "...",
+          "caption3": "coming soon...",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -533,7 +526,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-6",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -551,7 +544,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -576,8 +569,20 @@
             }
           },
           "title": "Egyéni kutyaoktatás",
-          "text": "minőőőség megfizethető áron bllabla",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">érdeklődöm</a>"
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Az oktatás több helyszínen zajlik:</b></span><br><br> - otthon, a kutya saját környezetében (lakás, kert), majd<br> - tágabb környezetben (utca, közeli park), végül<br> - idegen környezetben (Városliget, Népliget).<br><br>A képzés kölyök és felnőtt kutyák számára egyaránt elérhető, <b>péntek délutáni és hétvégi&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">időpontokon.</span></b><br><br>Időtartama 10 alkalom, heti 1x1 óra. Ára 45.000,- Ft. <br><i>A díj egy összegben, a jelentkezés <span style=\"font-size: 1.07rem; line-height: 1.5;\">visszaigazolását követően fizetendő.</span></i><br><br>A képzés várhatóan <b>március 15-e után indul.</b> A február végéig jelentkezők a +1 alkalom trükk oktatást&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">kapnak ajándékba!</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts2-c\" data-toolbar=\"-mbrBtnMove\">érdekel!</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "18px",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -604,7 +609,7 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "media": {
@@ -630,8 +635,8 @@
             }
           },
           "title": "Közös kutyaséták<br><br>",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">érdekel!</a>"
+          "text": "<p>coming soon...</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts2-c\" data-toolbar=\"-mbrBtnMove\">érdekel!</a>"
         },
         {
           "_tags": [
@@ -790,7 +795,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Szabó Andi&nbsp;<br></b></span></font>aSpánielTréner<br><br>kutyaoktatás<br>kutyaséta<br>spániel oktatás<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Elérhetőségeim:</b></span></font><br>\nEmail: szaboandi@aspanieltrener.hu<br>\nTel.: +36 (0) 000 0000&nbsp;<br><br>",
-          "text2": "<strong>Partnerek:</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">S</a>pánielmentés</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">D</a>ömötör Júlia</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">x</a>y</li></ul>"
+          "text2": "<strong>Partnerek:</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">S</a>pánielmentés</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">D</a>ömötör Júlia</li><li>Mantrailing&nbsp;</li></ul>"
         }
       ]
     }

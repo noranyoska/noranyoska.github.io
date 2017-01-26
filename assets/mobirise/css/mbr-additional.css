@@ -496,16 +496,22 @@ h6,
 #header3-4 H3 {
   text-align: right;
 }
-#content1-5 P {
-  text-align: center;
-}
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box8-k .mbr-section-title,
-#msg-box8-k p {
+#content6-j P {
+  text-align: left;
+}
+#msg-box8-m .mbr-section-title,
+#msg-box8-m p {
   color: #fff;
+}
+#msg-box8-m .mbr-section-title {
+  font-size: 60px;
+}
+#msg-box8-m .lead H4 {
+  color: #8c8c8c;
 }
 #features4-i .card-subtitle {
   color: #bcbcbc;
@@ -513,6 +519,16 @@ h6,
 #features4-i .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#msg-box5-6 H3 {
+  text-align: left;
+}
+#msg-box5-6 P {
+  text-align: left;
+}
+#msg-box5-6 SPAN {
+  font-size: 18px;
+  text-align: left;
 }
 #form1-8 .form-control-label {
   color: #232323;
