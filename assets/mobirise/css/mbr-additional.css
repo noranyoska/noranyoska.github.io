@@ -503,6 +503,21 @@ h6,
 #content6-j P {
   text-align: left;
 }
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-p H3 {
+  font-size: 21px;
+  color: #7c706b;
+  text-align: right;
+}
+#header3-p SPAN {
+  font-size: 18px;
+}
+#header3-p SMALL {
+  text-align: right;
+}
 #msg-box8-m .mbr-section-title,
 #msg-box8-m p {
   color: #fff;

@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.6",
-    "uniqCompNum": 23,
+    "uniqCompNum": 27,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -220,7 +220,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/farkasok-1-2000x1333-1-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/farkasok-1-2000x1333-1.jpg",
-                "caption": "Type caption here",
+                "caption": "Farkasokkal",
                 "active": false
               },
               {
@@ -280,7 +280,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mantrailing-7-2000x1125-1-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mantrailing-7-2000x1125-1.jpg",
-                "caption": "Type caption here",
+                "caption": "Mantrailing",
                 "active": false
               },
               {
@@ -295,7 +295,7 @@
               }
             ],
             "spacing": "0",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -331,19 +331,50 @@
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Több mint tíz éve van kutyám és mindig <b>spánielem</b> volt. Nagyon megszerettem ezt a fajtát. </p><p><i><b><br></b></i></p><blockquote><i><b>Nehéz&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">természetét, konokságát ellensúlyozó kedvességének, igéző tekintetének lehetetlen ellenállni...&nbsp;</span></b></i><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Nekem nem is sikerült.</i></span></blockquote><p><br></p><p>Jelenleg két kutyám van, spániel keverékek. Mindkettő a <b>spániel fajtamentés</b> védence volt mielőtt&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">egymásra találtunk volna.</span></p><p><br></p><p><b><br></b></p><h4>Mantrailing, engedelmességi képzés, nosework, trükkök elsajátítása, falkaséták és kutyás táborok jellemezték ezt az időszakot.</h4><p><br></p>",
-          "text2": "<p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Két éve kezdtem aktívan kutyakiképzéssel foglalkozni, első mentett kutyámmal (név?)&nbsp;</span></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Egy évvel később, pedig második kutyámmal </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">(név?)</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">, elmerülhettem a viselkedés problémák témakörében.&nbsp;</span></p><p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-weight: normal;\">Hogy nehézségeinket kiküszöböljük és életünk visszatérhessen a korábbi nyugodt mederbe, részt&nbsp;</span></span><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\">vettem egy </span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>tréner képzésen</b></span><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\"> (név?), ami mintegy feltette az i-re a pontot.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\"><br></span></p><h4>Kutyáim képzése során rengeteg személyes tapasztalatra tettem szert, sok problémával&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">szembesültem és találtam rájuk megoldást.&nbsp;</span></h4><p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Úgy döntöttem, saját tapasztalataimat nem tartom meg&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">magamnak, hanem a családi kutyakiképzés keretein belül megosztom másokkal (veletek?) is.</span></span></p>",
           "_styles": {
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_anchor": "content6-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Több mint tíz éve van kutyám és mindig <b>spánielem</b> volt. Nagyon megszerettem ezt a fajtát. </p><p><i><b><br></b></i></p><blockquote><i><b>Nehéz&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">természetét, konokságát ellensúlyozó kedvességének, igéző tekintetének lehetetlen ellenállni...&nbsp;</span></b></i><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Nekem nem is sikerült.</i></span></blockquote><p><br></p><p>Jelenleg két kutyám van, spániel keverékek. Mindkettő a <b>spániel fajtamentés</b> védence volt mielőtt&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">egymásra találtunk volna.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p>Két éve kezdtem aktívan kutyakiképzéssel foglalkozni, első mentett kutyámmal Kilivel.</p><p><b><br></b></p><h4>Mantrailing, engedelmességi képzés, nosework, trükkök elsajátítása, falkaséták és kutyás táborok jellemezték ezt az időszakot.</h4><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Egy évvel később, pedig második kutyámmal </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Lokival</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;merülhettem el a viselkedés problémák témakörében.&nbsp;</span></p><p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-weight: normal;\">Hogy nehézségeinket kiküszöböljük és életünk visszatérhessen a korábbi nyugodt mederbe, részt&nbsp;</span></span><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\">vettem a </span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Dog Fitness</b></span><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\">&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>tréner képzésén</b></span><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\">, ami mintegy feltette az i-re a pontot.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5; font-weight: normal;\"><br></span></p><h4>Kutyáim képzése során rengeteg személyes tapasztalatra tettem szert, sok problémával&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">szembesültem és találtam rájuk megoldást.&nbsp;</span></h4><p><span style=\"font-weight: normal;\"><i><span style=\"font-size: 1.07rem; line-height: 1.5;\">Úgy döntöttem, saját tapasztalataimat nem tartom meg&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">magamnak, hanem a családi kutyakiképzés keretein belül megosztom veletek is!</span></i></span></p><p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Szeretnél kutyát, de nem vagy felkészülve az az ezzel járó nehézségekre? <i>Akkor a legjobb helyen jársz!&nbsp;</i></b></span></p><p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></span></p><p><br></p><p><span style=\"font-weight: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "21px",
+              "color": "#7c706b",
+              "text-align": "right"
+            },
+            "SPAN": {
+              "font-size": "18px"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "„Ha azt érezzük a kutya kötöttség, keressük meg a megfelelő megoldást a kapcsolatunk rendezésére és a kutya megértésére.\"<div><br></div>",
+          "meta": "Dömötör Júlia"
         },
         {
           "_styles": {
@@ -447,13 +478,14 @@
               "name": "zynga",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#msg-box4-7",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
-          "title2": "Csoportos foglalkozások",
-          "subtitle2": "...",
+          "title2": "Szocializációs kutyaséták",
+          "subtitle2": "a Városligetben",
           "caption2": "coming soon...",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -524,6 +556,18 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "18px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-6",
           "_params": {
             "imageSize": "50",
@@ -569,20 +613,8 @@
             }
           },
           "title": "Egyéni kutyaoktatás",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Az oktatás több helyszínen zajlik:</b></span><br><br> - otthon, a kutya saját környezetében (lakás, kert), majd<br> - tágabb környezetben (utca, közeli park), végül<br> - idegen környezetben (Városliget, Népliget).<br><br>A képzés kölyök és felnőtt kutyák számára egyaránt elérhető, <b>péntek délutáni és hétvégi&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">időpontokon.</span></b><br><br>Időtartama 10 alkalom, heti 1x1 óra. Ára 45.000,- Ft. <br><i>A díj egy összegben, a jelentkezés <span style=\"font-size: 1.07rem; line-height: 1.5;\">visszaigazolását követően fizetendő.</span></i><br><br>A képzés várhatóan <b>március 15-e után indul.</b> A február végéig jelentkezők a +1 alkalom trükk oktatást&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">kapnak ajándékba!</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts2-c\" data-toolbar=\"-mbrBtnMove\">érdekel!</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "SPAN": {
-              "font-size": "18px",
-              "text-align": "left"
-            }
-          }
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Az oktatás több helyszínen zajlik:</b></span><br><br> - otthon, a kutya saját környezetében (lakás, kert), majd<br> - tágabb környezetben (utca, közeli park), végül<br> - idegen környezetben (Városliget, Népliget).<br><br>A képzés kölyök és felnőtt kutyák számára egyaránt elérhető, <b>péntek délutáni és hétvégi&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">időpontokon.</span></b><br><br>Időtartama 10 alkalom, heti 1x1 óra. Ára 45.000,- Ft. <br><i>A díj egy összegben, a jelentkezés <span style=\"font-size: 1.07rem; line-height: 1.5;\">visszaigazolását követően fizetendő.</span></i><br><br>A képzés várhatóan <b>március 15-e után indul.</b> A február végéig jelentkezők &nbsp;+1 alkalom trükk oktatást&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">kapnak ajándékba!</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts2-c\" data-toolbar=\"-mbrBtnMove\">érdekel!</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -634,8 +666,8 @@
               "size": 250
             }
           },
-          "title": "Közös kutyaséták<br><br>",
-          "text": "<p>coming soon...</p>",
+          "title": "Szocializációs kutyaséták a ligetben<br>",
+          "text": "<p>Hétvégén is dolgoznod kell?</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A gyereknek kosármeccse van vagy próbára kell fuvaroznod?</span></p><p>Családi összejövetelre kell készülnöd és&nbsp;nincs időd kedvenceddel a parkban sétálni?</p><p><b>Keress fel, segítek!</b><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts2-c\" data-toolbar=\"-mbrBtnMove\">érdekel!</a>"
         },
         {
