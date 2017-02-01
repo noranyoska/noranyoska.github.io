@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.6",
-    "uniqCompNum": 27,
+    "uniqCompNum": 29,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -68,7 +68,7 @@
           },
           "title": "Szabó Andi",
           "text": "aSpánielTréner",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content1-5\" data-toolbar=\"-mbrBtnMove\">oktatás</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-h\" data-toolbar=\"-mbrBtnMove\">rólam</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features4-i\" data-toolbar=\"-mbrBtnMove\">oktatás</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-h\" data-toolbar=\"-mbrBtnMove\">rólam</a>"
         },
         {
           "_styles": {
@@ -94,13 +94,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#b4322b"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#ce3c35!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#d14841"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -132,13 +132,13 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#d14841",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
@@ -161,7 +161,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">aSpánielTréner</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SZOLGÁLTATÁSOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-6\">Spániel oktatás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-7\">Kutyaséta</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-g\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-c\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#form1-8\">Írj nekem!</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SZOLGÁLTATÁSOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-6\">Spániel oktatás</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-7\">Kutyaséta</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">RÓLAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-c\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#form1-8\">Írj nekem!</a></li>"
         },
         {
           "_name": "footer1",
@@ -210,7 +210,7 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "images": [
               {
@@ -295,12 +295,12 @@
               }
             ],
             "spacing": "0",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery2-g",
           "articleLayout": false,
@@ -385,7 +385,7 @@
               "font-size": "60px"
             },
             ".lead H4": {
-              "color": "#8c8c8c"
+              "color": "#d14841"
             }
           },
           "_tags": [
@@ -398,7 +398,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1493.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/16178493-1242871749124887-3205473228491070385-o-2000x616.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -463,7 +463,7 @@
               "active": true,
               "link": "index.html#msg-box5-6",
               "size": "",
-              "color": "black",
+              "color": "#d14841",
               "newWindow": false
             }
           },
@@ -480,7 +480,7 @@
               "active": true,
               "link": "index.html#msg-box4-7",
               "size": 0,
-              "color": "black",
+              "color": "#d14841",
               "newWindow": false
             }
           },
@@ -497,7 +497,7 @@
               "active": true,
               "link": "index.html#msg-box4-7",
               "size": 0,
-              "color": "black",
+              "color": "#d14841",
               "newWindow": false
             }
           },
@@ -594,7 +594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477338811308-e65cea64eefb-1400x955.jpg",
+              "src": "@PROJECT_PATH@/assets/images/15289099-1194763840602345-2863341794641108382-o-1400x930.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -647,7 +647,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1461287159820-04de78c094e9-1400x927.jpg",
+              "src": "@PROJECT_PATH@/assets/images/received-1400x991.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -827,7 +827,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Szabó Andi&nbsp;<br></b></span></font>aSpánielTréner<br><br>kutyaoktatás<br>kutyaséta<br>spániel oktatás<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Elérhetőségeim:</b></span></font><br>\nEmail: szaboandi@aspanieltrener.hu<br>\nTel.: +36 (0) 000 0000&nbsp;<br><br>",
-          "text2": "<strong>Partnerek:</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">S</a>pánielmentés</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">D</a>ömötör Júlia</li><li>Mantrailing&nbsp;</li></ul>"
+          "text2": "<strong>Partnerek:</strong><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">S</a>pánielmentés</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">D</a>ömötör Júlia</li><li>Mantrailing&nbsp;</li><li><br></li></ul><p><br></p>"
         }
       ]
     }
