@@ -26,11 +26,31 @@
   font-size: 46px;
   text-align: left;
 }
+#msg-box4-m .lead P {
+  text-align: left;
+}
+#msg-box4-n .lead P {
+  text-align: left;
+}
 #content5-q .mbr-section-title {
   font-size: 46px;
   text-align: left;
 }
 #content5-q .mbr-section-title B {
+  font-size: 32px;
+}
+#content5-r .mbr-section-title {
+  font-size: 46px;
+  text-align: left;
+}
+#content5-r P {
+  text-align: left;
+}
+#content5-1a .mbr-section-title {
+  font-size: 46px;
+  text-align: left;
+}
+#content5-1a .mbr-section-title B {
   font-size: 32px;
 }
 #content5-p .mbr-section-title {
@@ -39,4 +59,21 @@
 }
 #content5-p .mbr-section-title B {
   font-size: 32px;
+}
+#menu-s .navbar-toggler {
+  color: #d5f4f0;
+}
+#content5-z .mbr-section-title {
+  font-size: 46px;
+  text-align: left;
+}
+#content5-z P {
+  text-align: left;
+}
+#content5-11 .mbr-section-title {
+  font-size: 46px;
+  text-align: left;
+}
+#content5-11 P {
+  text-align: left;
 }
