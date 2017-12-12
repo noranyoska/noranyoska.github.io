@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 #slider-f H2 {
   text-align: left;
@@ -60,6 +61,13 @@
 #content5-p .mbr-section-title B {
   font-size: 32px;
 }
+
+
+
+
+
+
+
 #menu-s .navbar-toggler {
   color: #d5f4f0;
 }
@@ -77,25 +85,32 @@
   font-size: 21px;
 }
 #content5-y P {
-  font-size: 19px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #content5-1c P {
-  font-size: 17px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #content5-1d P {
-  font-size: 17px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #content5-1e P {
-  font-size: 17px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #content5-1f P {
-  font-size: 17px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #content5-1g P {
-  font-size: 17px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #content5-1h P {
-  font-size: 17px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #content5-1b .mbr-section-title {
   font-size: 46px;
